@@ -7,6 +7,7 @@ Installation d'Ubuntu sur le Raspberry Pi 5
 
 Vous allez installer Ubuntu LTS 24.04 version desktop sur le Raspberry Pi 5.
 Pour installer Ubuntu :
+
 ***********************
 Sources documentaires
 ***********************
