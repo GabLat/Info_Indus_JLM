@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Cours d'Informatique Industrielle avec ROS2"
-copyright = '2024, Manuel YGUEL'
-author = 'Manuel YGUEL'
+project = "Informatique Industrielle avec ROS2, pantographe"
+copyright = '2024, Julien JUANOLA, Gabriel LATOUR, Thibaut MAETZ'
+author = 'Julien JUANOLA, Gabriel LATOUR, Thibaut MAETZ'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
