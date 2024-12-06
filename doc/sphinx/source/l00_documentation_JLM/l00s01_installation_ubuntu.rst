@@ -23,7 +23,7 @@ Dans un deuxième temps, il faut sélectionner le système d'exploitation. Ici n
 
    Attention une version existe pour les serveurs mais elle ne nous intéresse pas pour notre application.
 
-Dans un troisième temps, il faut sélectionner l'emplacement où sera installé Ubuntu. Nous avons essayé de partiotionner notre disque en deux, cependant cette opération n'a pas marché, la différenciation des groupes se fera en créant un second profil sur Ubuntu.
+Dans un troisième temps, il faut sélectionner l'emplacement où sera installé Ubuntu. Nous avons essayé de partitionner notre disque en deux, cependant cette opération n'a pas marché, la différenciation des groupes se fera en créant un second profil sur Ubuntu.
 
 
 ***********************
